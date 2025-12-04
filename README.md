@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# Sonny Powell | Software Engineering Student 🖥️
 
-<!--
-**SonnyP04/SonnyP04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Software Engineering student at University of Leicester, predicted First-Class Honours.
 
-Here are some ideas to get you started:
+## 🚀 Technical Skills
+**Languages:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Swift](https://img.shields.io/badge/swift-F54A5E?style=for-the-badge&logo=swift&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technologies:**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 🔬 Featured Projects
+### X-ray Image Classification
+Deep learning model for medical image analysis
+- Advanced machine learning techniques
+- Complex data processing
+
+### Referendum Platform
+Full-stack voting application
+- Flask backend
+- iOS frontend
+- Robust authentication system
+
+### AI Story Generator
+AI-driven creative writing tool
+- Creativity in AI 
+- Advanced natural language processing
+
+## 🌱 Current Focus
+- Fullstack Development 
+- AI for healthcare platforms
+- Machine Learning Applications
+
+## 📊 GitHub Stats
+![Sonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonnyp04&show_icons=true&theme=radical)
+
+## 🤝 Connect with me!
+<a href="https://www.linkedin.com/in/sonny-powell-a28048223/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sonnypowell257@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
