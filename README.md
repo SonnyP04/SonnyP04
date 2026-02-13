@@ -27,9 +27,7 @@ Passionate about threat detection, incident response, and protecting systems aga
 ### 🖥️ Security & Blue Team Tools
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -53,24 +51,13 @@ Simulated enterprise environment for monitoring and detection.
 - Custom alert creation
 - Attack simulation & defensive validation
 
-### 📊 Log Analysis & Threat Detection
-Python-based log parsing tool.
-- Detects suspicious login patterns
-- Flags anomalous IP behaviour
-- Generates incident summaries
-
-### 🔐 Secure Web App Assessment
-Performed security testing on a web application.
-- Identified OWASP Top 10 vulnerabilities
-- Input validation & authentication analysis
-- Documented findings in professional report format
-
----
 
 ## 📚 Certifications & Learning
+- ISC2 Certified in Cyber Security (In progress)
 - CompTIA Security+ (In Progress / Planned)
-- TryHackMe Defensive Path
+- Hack The Box Junior SOC analyst path
 - Blue Team Labs Online
+- BOSS of the SOC 
 
 ---
 
@@ -78,7 +65,6 @@ Performed security testing on a web application.
 - SIEM Engineering  
 - Threat Hunting  
 - Digital Forensics  
-- Cloud Security Fundamentals  
 
 ---
 
