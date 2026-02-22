@@ -1,5 +1,5 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-# Sonny Powell | Cybersecurity Blue Team 🛡️ | Junior SOC Analyst
+# Sonny Powell | Blue Team 🛡️ | Junior SOC Analyst
 
 ## 👨‍💻 About Me
 Cybersecurity-focused professional with a strong foundation in software engineering and defensive security practices.  
